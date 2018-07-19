@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/addicon.png</file>
+        <file>image/addnewchoose.png</file>
+        <file>image/analisy.png</file>
+        <file>image/anglechange.png</file>
+        <file>image/bg_n.png</file>
+        <file>image/chooses.png</file>
+        <file>image/delete.png</file>
+        <file>image/file.png</file>
+        <file>image/getreport.png</file>
+        <file>image/gettigger.png</file>
+        <file>image/guardicon.png</file>
+        <file>image/guidicon.png</file>
+        <file>image/line.png</file>
+        <file>image/main_icon_n .png</file>
+        <file>image/main_icon_p.png</file>
+        <file>image/nativefile.png</file>
+        <file>image/nativeselectfile.png</file>
+        <file>image/nocontent.png</file>
+        <file>image/openfile.png</file>
+        <file>image/play.png</file>
+        <file>image/recoder.png</file>
+        <file>image/recodernow.png</file>
+        <file>image/report.png</file>
+        <file>image/text.png</file>
+        <file>image/textbg.png</file>
+        <file>qss/health.qss</file>
+        <file>config.ini</file>
+        <file>image/report.bmp</file>
+        <file>image/play_icon.jpg</file>
+        <file>image/recoderbegin.jpg</file>
+        <file>image/recoderstop.jpg</file>
+        <file>image/btfx_btn_after.png</file>
+        <file>image/btfx_btn_before.png</file>
+        <file>image/btfx_Img.png</file>
+        <file>image/Login_bg.png</file>
+        <file>image/Btn_gef.png</file>
+        <file>image/Btn_klfx.png</file>
+        <file>image/Btn_szkf.png</file>
+        <file>image/Img_gef.png</file>
+        <file>image/Img_klfx.png</file>
+        <file>image/Img_szkf.png</file>
+    </qresource>
+</RCC>
